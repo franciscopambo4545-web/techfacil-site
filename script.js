@@ -1,0 +1,1 @@
+console.log("TechFácil pronto para receber novas dicas!");
